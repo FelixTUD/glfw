@@ -17,6 +17,8 @@ MinSizeRel
 RelWithDebInfo
 *.xcodeproj
 *.opensdf
+bin
+bin-int
 
 # macOS clutter
 .DS_Store
